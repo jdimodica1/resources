@@ -75,10 +75,23 @@ This first version is worth **5 points**.
 - **_Commit/push_** to GitHub.
 
 ---
+## Website Planning
+Due **Sunday 10/11/2020, by 11:59 PM**
+
+This part is worth 5 points.
+
+### What you need to do:
+1. Read [Planning a simple website](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Planning_a_simple_website).
+2. Create a folder called "*website-design*" under your project repository. This folder should at least contain files for the following items:
+   1. Draw a sketch of your project homepage (index.html) as step 2 in the [article](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Planning_a_simple_website). Use any tool such as figma.com, moqups.com, or PowerPoint, or even simply draw on a paper and take a photo.
+   2. Create a rough sitemap as step 5 in the [article](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Planning_a_simple_website).
+
+
+---
 
 ## Project Version 1
 
-Due **Wednesday 10/13/2020, by 11:59 PM**
+Due **Tuesday 10/13/2020, by 11:59 PM**
 
 This must be your complete website, including all of the content that you expect to have in your final submission. Note, only the content must be in place. CSS, JavaScript and jQuery elements are not required for this version. All navigation (links) must be in place. So, please DO NOT TREAT IT LIKE A FIRST DRAFT.
 
@@ -172,4 +185,4 @@ This deliverable is worth **40 points**.
 
 
 ---
-*updated: 9/3/2020*
+*updated: 10/06/2020*
