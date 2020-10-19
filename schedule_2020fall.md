@@ -17,8 +17,8 @@
 |        13 | 10/5  | Introduction to JavaScript<br>                       |                           |
 |        14 | 10/7  | JavaScript: Variables                                |                           |
 |        15 | 10/13 | JavaScript: Conditional Statements                   | **Due**: Project v1       |                        |
-|        16 | 10/14 | JavaScript: Form Processing                          |                           | **Quiz**: JavaScript-1 |
-|        17 | 10/19 | JavaScript: Practice                                 |                           |                        |
+|        16 | 10/14 | JavaScript: Form Processing                          |                           |                        |
+|        17 | 10/19 | JavaScript: Practice                                 |                           | **Quiz**: JavaScript-1 |
 |        18 | 10/21 | JavaScript: Form Validation                          |                           |
 |        19 | 10/26 | JavaScript: Arrays                                   | **Available**: HW3        |
 |        20 | 10/28 | JavaScript: Animation                                |
@@ -31,4 +31,4 @@
 |           | 11/27 |                                                      | **Due**: Term Project     |                        |
 |           | 11/30 | Exam                                                 |                           |
 
-*updated: 8/31/2020*
+*updated: 10/19/2020*
