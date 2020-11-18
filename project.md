@@ -156,7 +156,7 @@ This deliverable is worth **25 points**.
 
 ## Project Final
 
-Due **Monday 11/27/2020, by 11:59 PM**
+Due **Monday 11/30/2020, by 11:59 PM**
 
 The final version of the project must have the full set of project files on GitHub and linked to _sitemap.html_ in _WebTech_ repository (both GitHub URL and website domain). If you are using web host/cloud, upload/update all the files to the web host/cloud.
 
@@ -184,4 +184,4 @@ This deliverable is worth **40 points**.
 
 
 ---
-*updated: 10/06/2020*
+*updated: 11/18/2020*
