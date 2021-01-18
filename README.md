@@ -2,9 +2,9 @@
 
 ### Class Information:
 
-- [Syllabus](syllabus_2020fall.md)
+- [Syllabus](syllabus_2021spring.md)
 - [Project](project.md)
-- [Schedule](schedule_2020fall.md) (subject to changes)
+- [Schedule](schedule_2021spring.md) (subject to changes)
 
 ### Resources
 
