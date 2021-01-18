@@ -1,4 +1,4 @@
-# MIS3690 Web Technologies - Term Project
+# MIS3690 Web Technologies - Term Project (subject to changes)
 
 ## What is the Term Project?
 
@@ -55,7 +55,7 @@ To start your project, you need to create a **_new public_** repository in GitHu
 
 ## Project Proposal
 
-Due: **Wednesday 9/23/2020, by 11:59 PM**
+Due: **Monday 2/22/2020, by 11:59 PM**
 
 This is a webpage that answers the following questions:
 
@@ -76,7 +76,7 @@ This first version is worth **5 points**.
 
 ---
 ## Website Planning
-Due **Sunday 10/11/2020, by 11:59 PM**
+Due **Sunday 2/28/2020, by 11:59 PM**
 
 This part is worth 5 points.
 
@@ -91,7 +91,7 @@ This part is worth 5 points.
 
 ## Project Version 1
 
-Due **Tuesday 10/13/2020, by 11:59 PM**
+Due **Wednesday 3/10/2020, by 11:59 PM**
 
 This must be your complete website, including all of the content that you expect to have in your final submission. Note, only the content must be in place. CSS, JavaScript and jQuery elements are not required for this version. All navigation (links) must be in place. So, please DO NOT TREAT IT LIKE A FIRST DRAFT.
 
@@ -118,14 +118,15 @@ This first version is worth **30 points**.
 - Save all the files in project repository.
 - **_Commit/push_** to GitHub.
 - Create tag `'v1.0'` for current release. Learn [creating a release](https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository).
-- Link your own domain to GitHub pages of project repository. Add Description and Website to "About" of your project repository on GitHub.
+- Link your own domain to GitHub pages of project repository. Add Description and Website to your project repository on GitHub (see below).
+![](https://i.imgur.com/QAhOGVJ.gif)
 - Submit the URL to your website (not GitHub) on Canvas.
 
 ---
 
 ## Project Version 2
 
-Due **Wednesday 11/2/2020, by 11:59 PM**
+Due **Wednesday 3/31/2020, by 11:59 PM**
 
 This version has two parts.
 
@@ -156,7 +157,7 @@ This deliverable is worth **25 points**.
 
 ## Project Final
 
-Due **Monday 11/30/2020, by 11:59 PM**
+Due **Monday 4/26/2020, by 11:59 PM**
 
 The final version of the project must have the full set of project files on GitHub and linked to _sitemap.html_ in _WebTech_ repository (both GitHub URL and website domain). If you are using web host/cloud, upload/update all the files to the web host/cloud.
 
@@ -184,4 +185,4 @@ This deliverable is worth **40 points**.
 
 
 ---
-*updated: 11/18/2020*
+*updated: 1/17/2021*
