@@ -8,7 +8,7 @@
 
 ## Class Modes
 - Mode 1: **WEBFLEX/HYBRID** (*default*) - Hybrid classes blend face-to-face, in-person instruction with technology. 
-- Mode 2: **LIVE** - Online class will be conducted and recorded. Recording link will be posted to Canvas. **No in-person session.* *
+- Mode 2: **LIVE** - Online class will be conducted and recorded. Recording link will be posted to Canvas. **No in-person session.**
 - Mode 3: **ASYNC** - Webex session will be open during class times as "live check-in" and/or office hours. **No in-person session.** 
 
 
