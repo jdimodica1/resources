@@ -3,8 +3,8 @@
 | Session # | Date  | Topic                                                | Homework                  | Other                  |
 | --------: | :---: | :--------------------------------------------------- | ------------------------- | ---------------------- |
 |        01 | 1/20  | Introduction to the Course                           |
-|        02 | 1/26  | Introduction to HTML                                 |
-|        03 | 1/28  | Images<br>Links                                      | **Available**: HW1        |
+|        02 | 1/25  | Introduction to HTML                                 |
+|        03 | 1/27  | Images<br>Links                                      | **Available**: HW1        |
 |        04 |  2/1  | Introduction to CSS<br>**Project:** Introduction     |                           | **Quiz**: HTML         |
 |        05 |  2/3  | Lists<br>More on CSS                                 |                           |                        |
 |        06 |  2/8  | `id`, `class`<br>Advanced CSS                        | **Due**: HW1              |
